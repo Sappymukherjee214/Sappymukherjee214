@@ -133,9 +133,17 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🎧 Spotify Playing
+## 🎧 Music & Coding
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxpvtp6lhqkzn4k3xjtk3j5wwq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxpvtp6lhqkzn4k3xjtk3j5wwq&redirect=true)
+<div align="center">
+  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sappymukherjee214)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com)
+
+_"Code is like music; both require creativity and precision"_ 🎵
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
