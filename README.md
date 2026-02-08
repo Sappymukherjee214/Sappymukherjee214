@@ -92,14 +92,6 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/main/github-metrics.svg" alt="Metrics" width="900">
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
