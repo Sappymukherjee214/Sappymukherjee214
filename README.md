@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+![Header](assets/header.png)
 
 # Hello there,
 
@@ -113,6 +113,5 @@ I am dedicated to building solutions that make a difference in the tech world an
 <div align="center">
 
 [![Credly Profile](https://img.shields.io/badge/Credly-Profile-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/saptarshi-mukherjee.62a3f023)
-
 
 </div>
