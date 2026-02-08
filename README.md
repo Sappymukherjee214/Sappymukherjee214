@@ -109,18 +109,14 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 <!--START_SECTION:credly-->
 
+## 🏅 Credly Badges
+
 <div align="center">
 
-[![Postman API Fundamentals Student Expert](https://images.credly.com/size/340x340/images/7c2c660c-97ea-4c47-8acf-42adc46fe6cf/image.png)](https://www.credly.com/badges/a9c47c51-7156-4921-9d14-cb6911a53fdf)
-[![Google AI Essentials](https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/05f14f97-59a2-46f3-a498-22fee3d48469)
+[![Credly Profile](https://img.shields.io/badge/Credly-Profile-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/saptarshi-mukherjee.62a3f023)
 
-<br>
-
-[![View All Badges](https://img.shields.io/badge/View_All_Badges_on_Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/saptarshi-mukherjee.62a3f023)
 
 </div>
-
-<!--END_SECTION:credly-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
