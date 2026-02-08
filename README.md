@@ -1,3 +1,5 @@
+![Animation](assets/animation.gif)
+
 ![Header](assets/header.png)
 
 # Hello there,
@@ -114,5 +116,51 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 [![Credly Profile](https://img.shields.io/badge/Credly-Profile-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/saptarshi-mukherjee.62a3f023)
 
+
+</div>
+<!--END_SECTION:credly-->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📊 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🎯 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AI5z0AfjZM?theme=dark&font=Ubuntu&ext=heatmap)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🎵 Currently Listening To
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/31zqpzdojpqrsnohglbscwzqd6vi)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+### ✨ Thanks for visiting! Happy coding! ✨
+
+![](https://visitcount.itsvg.in/api?id=Sappymukherjee214&icon=5&color=1)
 
 </div>
