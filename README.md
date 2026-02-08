@@ -135,7 +135,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 ## 🎧 Spotify Playing
 
-[![Spotify](https://novatorem-sappymukherjee214.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxpvtp6lhqkzn4k3xjtk3j5wwq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxpvtp6lhqkzn4k3xjtk3j5wwq&redirect=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
