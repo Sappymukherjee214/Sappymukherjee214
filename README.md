@@ -151,7 +151,7 @@ _"Code is like music; both require creativity and precision"_ 🎵
 
 ## 🎯 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sappymukherjee214?theme=dark&font=Josefin%20Slab&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AI5z0AfjZM?theme=dark&font=Josefin%20Slab&ext=heatmap)](https://leetcode.com/u/AI5z0AfjZM/)
 
 ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Sappymukherjee214?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
 
