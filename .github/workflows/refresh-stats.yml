@@ -1,0 +1,53 @@
+name: Update GitHub Stats Cache
+
+on:
+  # Run every 2 hours to keep stats fresh
+  schedule:
+    - cron: "0 */2 * * *"
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+  # Run on push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  refresh-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Refresh GitHub Stats Badges
+        run: |
+          echo "🔄 Refreshing GitHub stats badges cache..."
+
+          # Refresh GitHub Stats Card
+          curl -s "https://github-stats-alpha.vercel.app/api/?username=Sappymukherjee214" > /dev/null
+          echo "✅ Stats card refreshed"
+
+          # Refresh Streak Stats
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=Sappymukherjee214&theme=tokyonight&hide_border=false" > /dev/null
+          echo "✅ Streak stats refreshed"
+
+          # Refresh Top Languages
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Sappymukherjee214&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" > /dev/null
+          echo "✅ Top languages refreshed"
+
+          # Refresh Contribution Activity Graph
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=Sappymukherjee214&theme=react-dark&hide_border=true" > /dev/null
+          echo "✅ Activity graph refreshed"
+
+          # Refresh 3D Contribution Graph
+          curl -s "https://ssr-contributions-svg.vercel.app/_/Sappymukherjee214?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" > /dev/null
+          echo "✅ 3D contribution graph refreshed"
+
+          # Refresh GitHub Trophies
+          curl -s "https://github-profile-trophy.vercel.app/?username=Sappymukherjee214&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" > /dev/null
+          echo "✅ GitHub trophies refreshed"
+
+          echo ""
+          echo "🎉 All GitHub stats badges have been refreshed successfully!"
+          echo "📊 Stats will display the latest data on your profile"
