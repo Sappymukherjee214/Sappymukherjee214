@@ -124,6 +124,16 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#88](https://github.com/singh-odyssey/travellers/pull/88) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
+2. 🗣 Commented on [#88](https://github.com/singh-odyssey/travellers/pull/88#issuecomment-3866286747) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
+3. 🗣 Commented on [#88](https://github.com/singh-odyssey/travellers/pull/88#issuecomment-3866230627) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
+4. 💪 Opened PR [#88](https://github.com/singh-odyssey/travellers/pull/88) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
+5. 🗣 Commented on [#85](https://github.com/singh-odyssey/travellers/issues/85#issuecomment-3864822442) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
+6. 🗣 Commented on [#66](https://github.com/anothercoder-nik/FinalCast-OpenSource/issues/66#issuecomment-3864529088) in [anothercoder-nik/FinalCast-OpenSource](https://github.com/anothercoder-nik/FinalCast-OpenSource)
+7. ❗ Opened issue [#66](https://github.com/anothercoder-nik/FinalCast-OpenSource/issues/66) in [anothercoder-nik/FinalCast-OpenSource](https://github.com/anothercoder-nik/FinalCast-OpenSource)
+8. 🗣 Commented on [#85](https://github.com/singh-odyssey/travellers/issues/85#issuecomment-3864517977) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
+9. ℹ️ Labeled issue [#85](https://github.com/singh-odyssey/travellers/issues/85) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
+10. ❗ Opened issue [#85](https://github.com/singh-odyssey/travellers/issues/85) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
