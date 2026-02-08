@@ -1,0 +1,25 @@
+name: Dynamic Quotes
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Quote
+        uses: PipeDreamHQ/github-app-token-action@v1
+        id: generate-token
+
+      - name: Generate Quote
+        uses: shravan20/github-readme-quotes@v1.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MESSAGE: Update daily quote
+          OPTION: both
