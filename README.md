@@ -105,16 +105,10 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG:START -->
-<!-- BLOG:END -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#88](https://github.com/singh-odyssey/travellers/pull/88) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
 2. 🗣 Commented on [#88](https://github.com/singh-odyssey/travellers/pull/88#issuecomment-3866286747) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
 3. 🗣 Commented on [#88](https://github.com/singh-odyssey/travellers/pull/88#issuecomment-3866230627) in [singh-odyssey/travellers](https://github.com/singh-odyssey/travellers)
