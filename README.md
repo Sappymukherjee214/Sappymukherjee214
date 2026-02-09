@@ -96,6 +96,80 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-849.37%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 7.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 369 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 90 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                136 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+🌆 Daytime                288 commits         ████████████░░░░░░░░░░░░░   46.98 % 
+🌃 Evening                183 commits         ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Tuesday                  76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Wednesday                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Thursday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Friday                   180 commits         ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Saturday                 169 commits         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Sunday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    1 hr 3 mins         █████████████████░░░░░░░░   66.83 % 
+YAML                     29 mins             ████████░░░░░░░░░░░░░░░░░   30.42 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+SVG                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+
+🔥 Editors: 
+Chrome                   1 hr 29 mins        ███████████████████████░░   93.95 % 
+VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+
+🐱‍💻 Projects: 
+Sappymukherjee214        1 hr 32 mins        ████████████████████████░   96.39 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+leetcode-company-wise-pro0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+
+💻 Operating System: 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               23 repos            ████████░░░░░░░░░░░░░░░░░   30.67 % 
+JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+```
+
+
+
+
+ Last Updated on 09/02/2026 01:26:32 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
