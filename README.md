@@ -98,38 +98,38 @@ I am dedicated to building solutions that make a difference in the tech world an
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-490.70%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-528.41%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 7.6 kB Used in GitHub's Storage 
+> 📦 7.8 kB Used in GitHub's Storage 
  > 
-> 🏆 369 Contributions in the Year 2026
+> 🏆 379 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 90 Public Repositories 
+> 📜 91 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                136 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-🌆 Daytime                286 commits         ████████████░░░░░░░░░░░░░   48.39 % 
-🌃 Evening                163 commits         ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+🌞 Morning                136 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌆 Daytime                292 commits         ████████████░░░░░░░░░░░░░   48.42 % 
+🌃 Evening                169 commits         ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Tuesday                  76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Wednesday                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Thursday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Friday                   180 commits         ████████░░░░░░░░░░░░░░░░░   30.46 % 
-Saturday                 146 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-Sunday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Monday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Wednesday                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Thursday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Friday                   181 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
+Saturday                 146 commits         ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Sunday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 ```
 
 
@@ -139,39 +139,41 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 3 mins         █████████████████░░░░░░░░   66.83 % 
-YAML                     29 mins             ████████░░░░░░░░░░░░░░░░░   30.42 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-SVG                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    7 hrs 3 mins        █████████████████████░░░░   85.88 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+SVG                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Chrome                   1 hr 29 mins        ███████████████████████░░   93.95 % 
-VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Chrome                   8 hrs 6 mins        █████████████████████████   98.83 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🐱‍💻 Projects: 
-Sappymukherjee214        1 hr 32 mins        ████████████████████████░   96.39 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-leetcode-company-wise-pro0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Chemical-Equipment-Parame4 hrs 1 min         ████████████░░░░░░░░░░░░░   49.10 % 
+leetcode-company-wise-pro2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.00 % 
+Sappymukherjee214        1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+travellers               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            ████████░░░░░░░░░░░░░░░░░   30.67 % 
-JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TypeScript               23 repos            ████████░░░░░░░░░░░░░░░░░   30.26 % 
+JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 
 
 
 
- Last Updated on 10/02/2026 01:49:40 UTC
+ Last Updated on 11/02/2026 01:33:17 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
