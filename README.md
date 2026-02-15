@@ -176,13 +176,13 @@ I am dedicated to building solutions that make a difference in the tech world an
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-350.07%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.8 kB Used in GitHub's Storage 
  > 
-> 🏆 412 Contributions in the Year 2026
+> 🏆 402 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -193,21 +193,21 @@ I am dedicated to building solutions that make a difference in the tech world an
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                113 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-🌆 Daytime                250 commits         ██████████████░░░░░░░░░░░   56.18 % 
-🌃 Evening                77 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Tuesday                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Wednesday                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Friday                   151 commits         ████████░░░░░░░░░░░░░░░░░   33.93 % 
-Saturday                 113 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-Sunday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -238,20 +238,14 @@ leetcode-company-wise-pro2 hrs 32 mins       ███░░░░░░░░�
 Windows                  22 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               24 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
-JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+
 ```
 
 
 
 
- Last Updated on 15/02/2026 09:25:15 UTC
+ Last Updated on 15/02/2026 09:25:37 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
