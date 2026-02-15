@@ -10,7 +10,11 @@
 </div>
 
 <h1>About Me:</h1>
-<p>An aspiring Software Developer passionate about building intelligent solutions across AI, Machine Learning, Full-Stack Web Development, and DevOps. I love transforming ideas into reality through code and continuously learning cutting-edge technologies!</p>
+<p>
+  🚀 I am a <strong>Software Engineer</strong> specializing in building intelligent, scalable solutions at the intersection of <strong>AI, Machine Learning, and Full-Stack Development</strong>. <br>
+  💡 Passionate about transforming complex business requirements into high-performance code and optimizing DevOps lifecycles for seamless delivery. <br>
+  🎓 Constantly evolving with cutting-edge technologies and contributing to open-source innovation.
+</p>
 
 I am dedicated to building solutions that make a difference in the tech world and beyond!
 
@@ -31,6 +35,26 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sappymukherjee214&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sappymukherjee214&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🛠️ Featured Projects:
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🛡️ PrivGPT-Studio** | Private AI/LLM integration studio for secure inference and development. | `Python` `React` `FastAPI` |
+| **📖 GroqTales** | High-performance storytelling engine powered by LPU™ technology. | `Next.js` `Groq API` `Tailwind` |
+| **📊 LeetCode Pro** | Automated tracker for company-specific problem solving and patterns. | `TypeScript` `Github Actions` |
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Sappymukherjee214?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
