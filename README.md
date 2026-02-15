@@ -182,10 +182,11 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:credly-->
 
+## 🏅 Credly Badges
+
 <div align="center">
 
 [![Credly Profile](https://img.shields.io/badge/Credly-Profile-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/saptarshi-mukherjee.62a3f023)
 
-</div>
 
-<!--END_SECTION:credly-->
+</div>
