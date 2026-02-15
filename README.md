@@ -155,7 +155,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 <br>
 
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <br>

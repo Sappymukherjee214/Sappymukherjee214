@@ -69,5 +69,6 @@ jobs:
         run: |
           curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight" > /dev/null
           curl -s "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.repository_owner }}&theme=tokyonight" > /dev/null
-          curl -s "https://ssr-contributions-svg.vercel.app/_/${{ github.repository_owner }}?chart=3dbar&theme=native" > /dev/null
+          curl -s "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" > /dev/null
+          curl -s "https://ssr-contributions-svg.vercel.app/_/${{ github.repository_owner }}?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" > /dev/null
           echo "Cache refreshed for all animations!"
