@@ -247,8 +247,23 @@ Shell                    1 repo              ░░░░░░░░░░░�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-snake.svg" />
 </picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 😂 Coding Humor & 💡 Daily Inspiration:
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-quotes.vercel.app/quote?theme=tokyonight" />
+</div>
+
+<br>
 
 <!-- FOOTER -->
 <p align="center w-screen">
