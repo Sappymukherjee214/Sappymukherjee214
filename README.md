@@ -108,6 +108,44 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+## 🧠 Engineering Deep Dive:
+
+<details>
+<summary><b>🛠️ My Development Philosophy</b></summary>
+<br>
+<blockquote>
+  "Code is for humans to read, and only incidentally for machines to execute."
+</blockquote>
+<ul>
+  <li><b>Clean Architecture:</b> I prioritize logic separation and maintainable patterns over quick hacks.</li>
+  <li><b>Automation First:</b> If a task needs to be done twice, it deserves a script/workflow.</li>
+  <li><b>AI-Assisted, Not AI-Dependent:</b> Leveraging LLMs to accelerate boilerplate while maintaining deep focus on core logic and security.</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🖥️ My Productivity Stack</b></summary>
+<br>
+<ul>
+  <li><b>Editor:</b> VS Code (Tokyo Night Theme + Fira Code font)</li>
+  <li><b>Terminal:</b> PowerShell / Oh My Zsh (Spaceship Prompt)</li>
+  <li><b>Cloud Environment:</b> AWS / Vercel / Railway</li>
+  <li><b>Must-Have Tools:</b> Postman (API testing), Docker (Isolation), Figma (UI/UX)</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🌱 Currently Exploration & Learning</b></summary>
+<br>
+<ul>
+  <li><b>Distributed Systems:</b> Exploring Kubernetes orchestration for microservices.</li>
+  <li><b>Advanced ML:</b> Fine-tuning transformer models for specific domain tasks.</li>
+  <li><b>Web Performance:</b> Optimizing Core Web Vitals for progressive web apps.</li>
+</ul>
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptarshi-mukherjee-096191263/)
