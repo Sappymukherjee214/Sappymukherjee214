@@ -217,25 +217,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    20 hrs 37 mins      ███████████████████████░░   93.11 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-SVG                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    20 hrs 56 mins      ████████████████████░░░░░   81.63 % 
+Markdown                 4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 3 mins       █████████████████████████   99.57 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Chrome                   25 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PrivGPT-Studio           5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-GroqTales                4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Chemical-Equipment-Parame4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-tambourine-voice         3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-leetcode-company-wise-pro2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+GroqTales                5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+PrivGPT-Studio           5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Chemical-Equipment-Parame4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+tambourine-voice         3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+leetcode-company-wise-pro2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 
 💻 Operating System: 
-Windows                  22 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  25 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -245,7 +241,7 @@ Windows                  22 hrs 8 mins       ███████████�
 
 
 
- Last Updated on 15/02/2026 18:30:15 UTC
+ Last Updated on 15/02/2026 18:30:39 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
