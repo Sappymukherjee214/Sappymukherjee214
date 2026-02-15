@@ -29,8 +29,6 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 ## 📊 Stats:
 
-## 📊 Stats:
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sappymukherjee214&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sappymukherjee214&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -177,3 +175,20 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
  Last Updated on 15/02/2026 01:31:28 UTC
 <!--END_SECTION:waka-->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Sappymukherjee214?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
+
+![Kyubey](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-snake.svg" />
+</picture>
+
+<!-- FOOTER -->
+<p align="center w-screen">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+</p>
