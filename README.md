@@ -174,7 +174,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.10%20million%20lines%20of%20code-blue?style=flat)
 
@@ -237,17 +237,17 @@ Windows                  27 hrs 40 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               24 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
-JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+TypeScript               25 repos            ████████░░░░░░░░░░░░░░░░░   31.65 % 
+JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 
 
 
- Last Updated on 17/02/2026 08:04:21 UTC
+ Last Updated on 17/02/2026 08:10:11 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
