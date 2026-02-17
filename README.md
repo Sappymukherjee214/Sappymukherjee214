@@ -234,20 +234,14 @@ SOUL_SENSE_EXAM          1 hr 56 mins        ██░░░░░░░░░�
 Windows                  22 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               26 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+
 ```
 
 
 
 
- Last Updated on 17/02/2026 19:47:52 UTC
+ Last Updated on 17/02/2026 19:48:32 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
