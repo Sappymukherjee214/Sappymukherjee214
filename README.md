@@ -176,7 +176,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-976.48%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -193,21 +193,21 @@ I am dedicated to building solutions that make a difference in the tech world an
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-🌆 Daytime                398 commits         █████████████░░░░░░░░░░░░   50.38 % 
-🌃 Evening                226 commits         ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+🌞 Morning                156 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+🌆 Daytime                314 commits         ████████████░░░░░░░░░░░░░   49.53 % 
+🌃 Evening                158 commits         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Thursday                 42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Friday                   288 commits         █████████░░░░░░░░░░░░░░░░   36.46 % 
-Saturday                 155 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-Sunday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Monday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Tuesday                  123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Thursday                 38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Friday                   198 commits         ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Saturday                 139 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Sunday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 ```
 
 
@@ -247,7 +247,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2026 22:43:33 UTC
+ Last Updated on 18/02/2026 22:48:38 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
