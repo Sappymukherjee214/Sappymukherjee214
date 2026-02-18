@@ -174,9 +174,9 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -193,21 +193,21 @@ I am dedicated to building solutions that make a difference in the tech world an
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-🌆 Daytime                395 commits         █████████████░░░░░░░░░░░░   50.19 % 
-🌃 Evening                226 commits         ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+🌞 Morning                156 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+🌆 Daytime                388 commits         █████████████░░░░░░░░░░░░   53.22 % 
+🌃 Evening                179 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Thursday                 42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Friday                   285 commits         █████████░░░░░░░░░░░░░░░░   36.21 % 
-Saturday                 155 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Sunday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Monday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Wednesday                63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Thursday                 38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Friday                   268 commits         █████████░░░░░░░░░░░░░░░░   36.76 % 
+Saturday                 139 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Sunday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 ```
 
 
@@ -217,21 +217,21 @@ Sunday                   69 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    17 hrs 48 mins      ████████████████████░░░░░   78.48 % 
-Markdown                 4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Other                    14 hrs 52 mins      ███████████████████░░░░░░   76.27 % 
+Markdown                 4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 41 mins      █████████████████████████   100.00 % 
+Chrome                   19 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GroqTales                5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-PrivGPT-Studio           5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-tambourine-voice         3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-VishwaGuru               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-SOUL_SENSE_EXAM          1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+GroqTales                5 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+PrivGPT-Studio           3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+SOUL_SENSE_EXAM          2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+VishwaGuru               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+react-kolkata            1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 💻 Operating System: 
-Windows                  22 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,7 +247,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2026 18:39:27 UTC
+ Last Updated on 18/02/2026 18:47:26 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
