@@ -174,7 +174,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -182,7 +182,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 > 📦 8.8 kB Used in GitHub's Storage 
  > 
-> 🏆 492 Contributions in the Year 2026
+> 🏆 479 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -217,21 +217,21 @@ Sunday                   69 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    14 hrs 52 mins      ███████████████████░░░░░░   76.27 % 
-Markdown                 4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Other                    17 hrs 44 mins      ███████████████████░░░░░░   77.80 % 
+Markdown                 5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 29 mins      █████████████████████████   100.00 % 
+Chrome                   22 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GroqTales                5 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-PrivGPT-Studio           3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-SOUL_SENSE_EXAM          2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-VishwaGuru               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-react-kolkata            1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+GroqTales                5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+SOUL_SENSE_EXAM          4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+PrivGPT-Studio           3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+keploy                   3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+VishwaGuru               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 
 💻 Operating System: 
-Windows                  19 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,7 +247,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2026 18:47:37 UTC
+ Last Updated on 19/02/2026 18:55:02 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
