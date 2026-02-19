@@ -234,20 +234,14 @@ VishwaGuru               2 hrs 27 mins       ███░░░░░░░░�
 Windows                  22 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
-
 ```text
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+
 ```
 
 
 
 
- Last Updated on 19/02/2026 23:19:49 UTC
+ Last Updated on 19/02/2026 23:20:26 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
