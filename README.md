@@ -182,7 +182,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 > 📦 9.0 kB Used in GitHub's Storage 
  > 
-> 🏆 508 Contributions in the Year 2026
+> 🏆 510 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -217,21 +217,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    17 hrs 44 mins      ███████████████████░░░░░░   77.80 % 
-Markdown                 5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Other                    13 hrs 31 mins      ██████████████████░░░░░░░   72.48 % 
+Markdown                 5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 48 mins      █████████████████████████   100.00 % 
+Chrome                   18 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GroqTales                5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-SOUL_SENSE_EXAM          4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-PrivGPT-Studio           3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-keploy                   3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-VishwaGuru               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+GroqTales                4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+SOUL_SENSE_EXAM          4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+keploy                   3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+VishwaGuru               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+react-kolkata            1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 💻 Operating System: 
-Windows                  22 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -241,7 +241,7 @@ Windows                  22 hrs 48 mins      ███████████�
 
 
 
- Last Updated on 20/02/2026 18:34:46 UTC
+ Last Updated on 20/02/2026 18:35:36 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
