@@ -217,21 +217,21 @@ Sunday                   74 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 15 mins      ██████████████████████░░░   87.82 % 
-Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Other                    8 hrs 22 mins       ██████████████████████░░░   86.78 % 
+Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 40 mins      █████████████████████████   100.00 % 
+Chrome                   9 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SOUL_SENSE_EXAM          4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.94 % 
-keploy                   3 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-VishwaGuru               2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Music-Recommendation-Usin31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-google-summer-of-code    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+SOUL_SENSE_EXAM          4 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.78 % 
+keploy                   3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.84 % 
+Music-Recommendation-Usin31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+VishwaGuru               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+google-summer-of-code    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 💻 Operating System: 
-Windows                  11 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,7 +247,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2026 18:44:33 UTC
+ Last Updated on 23/02/2026 18:52:25 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
