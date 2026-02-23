@@ -237,8 +237,8 @@ Windows                  11 hrs 40 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               26 repos            ████████░░░░░░░░░░░░░░░░░   31.33 % 
-JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+TypeScript               27 repos            ████████░░░░░░░░░░░░░░░░░   32.53 % 
+JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
 Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
@@ -247,7 +247,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2026 04:49:54 UTC
+ Last Updated on 23/02/2026 04:57:14 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
