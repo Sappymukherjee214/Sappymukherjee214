@@ -174,7 +174,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.34%20million%20lines%20of%20code-blue?style=flat)
 
@@ -217,21 +217,21 @@ Sunday                   77 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 28 mins      ██████████████████░░░░░░░   72.83 % 
-Markdown                 3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+Other                    11 hrs 49 mins      ███████████████████░░░░░░   75.66 % 
+Markdown                 3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 23 mins      █████████████████████████   100.00 % 
+Chrome                   15 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SOUL_SENSE_EXAM          8 hrs 31 mins       ███████████████░░░░░░░░░░   59.21 % 
-keploy                   3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-GSoC-2026-explorer       1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-google-summer-of-code    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-dev-card-showcase        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+SOUL_SENSE_EXAM          11 hrs 10 mins      ██████████████████░░░░░░░   71.55 % 
+keploy                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+GSoC-2026-explorer       1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+google-summer-of-code    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+dev-card-showcase        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  14 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,7 +247,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2026 18:42:34 UTC
+ Last Updated on 25/02/2026 18:50:03 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
