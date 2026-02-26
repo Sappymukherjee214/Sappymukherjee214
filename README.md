@@ -217,21 +217,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    11 hrs 49 mins      ███████████████████░░░░░░   75.66 % 
-Markdown                 3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Other                    9 hrs 52 mins       ███████████████████░░░░░░   74.58 % 
+Markdown                 3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 37 mins      █████████████████████████   100.00 % 
+Chrome                   13 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SOUL_SENSE_EXAM          11 hrs 10 mins      ██████████████████░░░░░░░   71.55 % 
-keploy                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-GSoC-2026-explorer       1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-google-summer-of-code    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-dev-card-showcase        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+SOUL_SENSE_EXAM          11 hrs              █████████████████████░░░░   83.13 % 
+GSoC-2026-explorer       1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+google-summer-of-code    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+travellers               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+esoc2026                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  15 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -241,7 +241,7 @@ Windows                  15 hrs 37 mins      ███████████�
 
 
 
- Last Updated on 26/02/2026 18:32:21 UTC
+ Last Updated on 26/02/2026 18:33:02 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
