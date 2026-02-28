@@ -174,9 +174,9 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.43%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -193,21 +193,21 @@ I am dedicated to building solutions that make a difference in the tech world an
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                171 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-🌆 Daytime                578 commits         ██████████████░░░░░░░░░░░   55.52 % 
-🌃 Evening                286 commits         ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+🌞 Morning                157 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+🌆 Daytime                328 commits         ████████████░░░░░░░░░░░░░   47.13 % 
+🌃 Evening                205 commits         ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Tuesday                  138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Wednesday                96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Thursday                 70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Friday                   462 commits         ███████████░░░░░░░░░░░░░░   44.38 % 
-Saturday                 169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Sunday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Monday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Tuesday                  138 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Thursday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Friday                   195 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+Saturday                 146 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 ```
 
 
@@ -217,19 +217,19 @@ Sunday                   77 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    9 hrs 30 mins       ██████████████████░░░░░░░   72.83 % 
-Markdown                 3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+Other                    13 hrs 40 mins      ████████████████████░░░░░   79.39 % 
+Markdown                 3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 3 mins       █████████████████████████   100.00 % 
+Chrome                   17 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SOUL_SENSE_EXAM          11 hrs 9 mins       █████████████████████░░░░   85.50 % 
-GSoC-2026-explorer       1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-travellers               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+SOUL_SENSE_EXAM          15 hrs 19 mins      ██████████████████████░░░   89.01 % 
+GSoC-2026-explorer       1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+travellers               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -245,7 +245,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2026 18:38:46 UTC
+ Last Updated on 28/02/2026 18:41:49 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
