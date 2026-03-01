@@ -174,7 +174,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.03%20million%20lines%20of%20code-blue?style=flat)
 
@@ -217,19 +217,19 @@ Sunday                   90 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 hrs 40 mins      ████████████████████░░░░░   79.39 % 
-Markdown                 3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Other                    17 hrs 50 mins      █████████████████████░░░░   83.44 % 
+Markdown                 3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
 
 🔥 Editors: 
-Chrome                   17 hrs 13 mins      █████████████████████████   100.00 % 
+Chrome                   21 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SOUL_SENSE_EXAM          15 hrs 19 mins      ██████████████████████░░░   89.01 % 
-GSoC-2026-explorer       1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-travellers               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+SOUL_SENSE_EXAM          19 hrs 29 mins      ███████████████████████░░   91.14 % 
+GSoC-2026-explorer       1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+travellers               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  17 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -245,7 +245,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2026 18:40:36 UTC
+ Last Updated on 01/03/2026 18:47:15 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
