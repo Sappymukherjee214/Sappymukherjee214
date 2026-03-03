@@ -236,17 +236,17 @@ Windows                  23 hrs 13 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               27 repos            ████████░░░░░░░░░░░░░░░░░   32.14 % 
-JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               27 repos            ████████░░░░░░░░░░░░░░░░░   31.76 % 
+JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 
 
 
- Last Updated on 03/03/2026 06:43:00 UTC
+ Last Updated on 03/03/2026 06:50:09 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
