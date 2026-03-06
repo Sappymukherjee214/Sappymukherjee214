@@ -174,7 +174,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -182,7 +182,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 > 📦 11.7 kB Used in GitHub's Storage 
  > 
-> 🏆 696 Contributions in the Year 2026
+> 🏆 699 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -193,21 +193,21 @@ I am dedicated to building solutions that make a difference in the tech world an
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-🌆 Daytime                682 commits         ██████████████░░░░░░░░░░░   57.41 % 
-🌃 Evening                301 commits         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+🌞 Morning                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+🌆 Daytime                685 commits         ██████████████░░░░░░░░░░░   57.51 % 
+🌃 Evening                301 commits         ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Tuesday                  139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Wednesday                125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Thursday                 72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Friday                   540 commits         ███████████░░░░░░░░░░░░░░   45.45 % 
-Saturday                 169 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Monday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Tuesday                  139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Wednesday                125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Thursday                 72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Friday                   543 commits         ███████████░░░░░░░░░░░░░░   45.59 % 
+Saturday                 169 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 
 
@@ -217,19 +217,22 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    18 hrs 56 mins      █████████████████████████   98.43 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    21 hrs 3 mins       █████████████████████████   98.04 % 
+Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 14 mins      █████████████████████████   100.00 % 
+Chrome                   21 hrs 7 mins       █████████████████████████   98.32 % 
+VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🐱‍💻 Projects: 
-SOUL_SENSE_EXAM          19 hrs 13 mins      █████████████████████████   99.92 % 
-google-summer-of-code    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+SOUL_SENSE_EXAM          21 hrs 28 mins      █████████████████████████   99.91 % 
+google-summer-of-code    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+excel-analytics-platform 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 wanderLust               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -245,7 +248,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2026 18:40:04 UTC
+ Last Updated on 06/03/2026 18:48:15 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
