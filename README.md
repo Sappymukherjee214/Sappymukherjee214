@@ -174,9 +174,9 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-213.84%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -193,21 +193,21 @@ I am dedicated to building solutions that make a difference in the tech world an
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-🌆 Daytime                706 commits         ██████████████░░░░░░░░░░░   57.77 % 
-🌃 Evening                301 commits         ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+🌞 Morning                82 commits          ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+🌆 Daytime                228 commits         ████████████████░░░░░░░░░   62.47 % 
+🌃 Evening                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Thursday                 72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Friday                   553 commits         ███████████░░░░░░░░░░░░░░   45.25 % 
-Saturday                 186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Wednesday                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Friday                   146 commits         ██████████░░░░░░░░░░░░░░░   40.00 % 
+Saturday                 87 commits          ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Sunday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 ```
 
 
@@ -217,22 +217,25 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    21 hrs 3 mins       █████████████████████████   98.04 % 
-Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    16 hrs 51 mins      ███████████████████████░░   91.18 % 
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 7 mins       █████████████████████████   98.32 % 
-VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Chrome                   17 hrs 32 mins      ████████████████████████░   94.90 % 
+VS Code                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🐱‍💻 Projects: 
-SOUL_SENSE_EXAM          21 hrs 28 mins      █████████████████████████   99.91 % 
-google-summer-of-code    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+SOUL_SENSE_EXAM          16 hrs 30 mins      ██████████████████████░░░   89.35 % 
+travellers               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+GameHub                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+google-summer-of-code    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 excel-analytics-platform 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-wanderLust               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -248,7 +251,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2026 18:36:56 UTC
+ Last Updated on 07/03/2026 18:38:50 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
