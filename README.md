@@ -174,7 +174,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.57%20million%20lines%20of%20code-blue?style=flat)
 
@@ -217,25 +217,25 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    16 hrs 51 mins      ███████████████████████░░   91.18 % 
-JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other                    16 hrs 33 mins      ██████████████████████░░░   86.02 % 
+Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-Chrome                   17 hrs 32 mins      ████████████████████████░   94.90 % 
-VS Code                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Chrome                   17 hrs 34 mins      ███████████████████████░░   91.29 % 
+VS Code                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 
 🐱‍💻 Projects: 
-SOUL_SENSE_EXAM          16 hrs 30 mins      ██████████████████████░░░   89.35 % 
-travellers               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-GameHub                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-google-summer-of-code    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-excel-analytics-platform 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+SOUL_SENSE_EXAM          11 hrs 40 mins      ███████████████░░░░░░░░░░   60.65 % 
+DELL                     2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+travellers               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+KrishiSaathi             1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+GameHub                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 💻 Operating System: 
-Windows                  18 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -251,7 +251,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2026 18:40:25 UTC
+ Last Updated on 08/03/2026 18:48:57 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
