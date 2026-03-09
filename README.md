@@ -176,11 +176,11 @@ I am dedicated to building solutions that make a difference in the tech world an
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2034%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.58%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.53%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 19.6 kB Used in GitHub's Storage 
+> 📦 19.7 kB Used in GitHub's Storage 
  > 
 > 🏆 746 Contributions in the Year 2026
  > 
@@ -193,21 +193,21 @@ I am dedicated to building solutions that make a difference in the tech world an
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌆 Daytime                736 commits         ███████████████░░░░░░░░░░   58.69 % 
-🌃 Evening                303 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+🌆 Daytime                375 commits         ███████████████████░░░░░░   76.84 % 
+🌃 Evening                93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Tuesday                  141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Thursday                 72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Friday                   583 commits         ████████████░░░░░░░░░░░░░   46.49 % 
-Saturday                 186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Sunday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Monday                   6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Tuesday                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Wednesday                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Thursday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Friday                   375 commits         ███████████████████░░░░░░   76.84 % 
+Saturday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 
@@ -241,17 +241,17 @@ Windows                  19 hrs 15 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               26 repos            ████████░░░░░░░░░░░░░░░░░   30.23 % 
-JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+TypeScript               25 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 
 
 
- Last Updated on 08/03/2026 23:54:43 UTC
+ Last Updated on 09/03/2026 00:00:28 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
