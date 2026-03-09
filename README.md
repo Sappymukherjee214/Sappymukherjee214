@@ -238,20 +238,14 @@ GameHub                  35 mins             █░░░░░░░░░░�
 Windows                  19 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               25 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+
 ```
 
 
 
 
- Last Updated on 09/03/2026 10:53:04 UTC
+ Last Updated on 09/03/2026 10:53:55 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
