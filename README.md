@@ -1,15 +1,15 @@
+<!-- markdownlint-disable MD033 -->
+# Hello there
+
 ![Animation](assets/animation.gif)
 
 ![Header](assets/header.png)
 
-# Hello there,
-
 <div>
-  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=I'm+Saptarshi+Mukherjee;Software+Developer;AI+%26+ML+Enthusiast;Full+Stack+Developer;DevOps+Explorer)](https://git.io/typing-svg)
 </div>
 
-<h1>About Me:</h1>
+<h1>About Me</h1>
 <p>
   🚀 I am a <strong>Software Engineer</strong> specializing in building intelligent, scalable solutions at the intersection of <strong>AI, Machine Learning, and Full-Stack Development</strong>. <br>
   💡 Passionate about transforming complex business requirements into high-performance code and optimizing DevOps lifecycles for seamless delivery. <br>
@@ -20,25 +20,26 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 [![Visitor's Count](https://komarev.com/ghpvc/?username=Sappymukherjee214&color=brightgreen)](https://github.com/Sappymukherjee214)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Separator">
 
-## 🚀 What I'm Working On:
+## 🚀 What I'm Working On
 
 - 🤖 Exploring **AI & Machine Learning** - Building intelligent systems
 - 💻 Developing **Full-Stack Applications** - From frontend to backend
 - ⚙️ Learning **DevOps Practices** - CI/CD, Containerization, Cloud
 - 🔥 Contributing to **Open Source** - Growing with the community
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Separator">
 
-## 📊 Stats:
+## 📊 Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sappymukherjee214&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sappymukherjee214&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sappymukherjee214&theme=tokyonight&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sappymukherjee214&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sappymukherjee214&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Separator">
 
-## 🛠️ Featured Projects:
+## 🛠️ Featured Projects
 
 <div align="center">
 
@@ -52,7 +53,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 <p align="center">
   <a href="https://github.com/Sappymukherjee214?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </p>
 
@@ -60,55 +61,55 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sappymukherjee214&theme=react-dark&hide_border=true)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Separator">
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <h3 align="left">Languages & Frameworks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css" alt="Languages & Frameworks" />
   </a>
 </p>
 
 <h3 align="left">Web Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,flask,django" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,flask,django" alt="Web Development" />
   </a>
 </p>
 
 <h3 align="left">AI/ML & Data Science</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI/ML & Data Science" />
   </a>
 </p>
 
 <h3 align="left">Databases & Cloud</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" alt="Databases & Cloud" />
   </a>
 </p>
 
 <h3 align="left">DevOps & Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws,gcp,azure,jenkins,nginx" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws,gcp,azure,jenkins,nginx" alt="DevOps & Tools" />
   </a>
 </p>
 
 <h3 align="left">Dev Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,idea" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,idea" alt="Dev Tools" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Separator">
 
-## 🧠 Engineering Deep Dive:
+## 🧠 Engineering Deep Dive
 
 <details>
 <summary><b>🛠️ My Development Philosophy</b></summary>
@@ -144,32 +145,44 @@ I am dedicated to building solutions that make a difference in the tech world an
 </ul>
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Separator">
 
-## 😂 Coding Humor & 💡 Daily Inspiration:
+## 😂 Coding Humor & 💡 Daily Inspiration
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Daily Coding Joke" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational Quote" />
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Separator">
 
-## 🌐 Connect with Me:
+## 📚 Curated Resources
+
+<div align="center">
+
+| Resource | Description | Link |
+| :--- | :--- | :--- |
+| **🌌 Global Elite Directory** | Comprehensive list of premier institutions (IITs, NITs, IVY) and Global MNCs. | [Explore Now](./Global-Elite-Directory) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Separator">
+
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptarshi-mukherjee-096191263/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Sappymukherjee214)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukherjeesaptarshi289@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/MukherjeeXii)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Separator">
 
 ## ⏱️ WakaTime Coding Stats
 
@@ -178,83 +191,81 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.58%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+### 🐱 My GitHub Data
 
-> 📦 19.9 kB Used in GitHub's Storage 
- > 
+> 📦 19.9 kB Used in GitHub's Storage
+ >
 > 🏆 746 Contributions in the Year 2026
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 99 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 99 Public Repositories
+ >
+> 🔑 1 Private Repositories
+ >
+
+### I'm an Early 🐤
 
 ```text
-🌞 Morning                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-🌆 Daytime                739 commits         ███████████████░░░░░░░░░░   58.79 % 
-🌃 Evening                303 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+🌞 Morning                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+🌆 Daytime                739 commits         ███████████████░░░░░░░░░░   58.79 %
+🌃 Evening                303 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 %
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
-📅 **I'm Most Productive on Friday** 
+
+### 📅 I'm Most Productive on Friday
 
 ```text
-Monday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Tuesday                  141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Thursday                 72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Friday                   586 commits         ████████████░░░░░░░░░░░░░   46.62 % 
-Saturday                 186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Sunday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Monday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Tuesday                  141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Thursday                 72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Friday                   586 commits         ████████████░░░░░░░░░░░░░   46.62 %
+Saturday                 186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Sunday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+### 📊 This Week I Spent My Time On
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Other                    14 hrs 53 mins      █████████████████████░░░░   84.77 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+💬 Programming Languages:
+Other                    14 hrs 53 mins      █████████████████████░░░░   84.77 %
+Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 
-🔥 Editors: 
-Chrome                   15 hrs 53 mins      ███████████████████████░░   90.46 % 
-VS Code                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+🔥 Editors:
+Chrome                   15 hrs 53 mins      ███████████████████████░░   90.46 %
+VS Code                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 %
 
-🐱‍💻 Projects: 
-SOUL_SENSE_EXAM          9 hrs 51 mins       ██████████████░░░░░░░░░░░   56.07 % 
-DELL                     2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-travellers               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-KrishiSaathi             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-GameHub                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+🐱‍💻 Projects:
+SOUL_SENSE_EXAM          9 hrs 51 mins       ██████████████░░░░░░░░░░░   56.07 %
+DELL                     2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+travellers               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+KrishiSaathi             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+GameHub                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 
-💻 Operating System: 
-Windows                  17 hrs 34 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  17 hrs 34 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in TypeScript** 
+### I Mostly Code in TypeScript
 
 ```text
-TypeScript               26 repos            ████████░░░░░░░░░░░░░░░░░   30.23 % 
-JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+TypeScript               26 repos            ████████░░░░░░░░░░░░░░░░░   30.23 %
+JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
-
-
-
 
  Last Updated on 10/03/2026 07:29:02 UTC
 <!--END_SECTION:waka-->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Separator">
 
 ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Sappymukherjee214?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
 
@@ -266,8 +277,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
   <img alt="github-snake" src="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-snake.svg" />
 </picture>
 
-
 <!-- FOOTER -->
 <p align="center w-screen">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer" alt="Waving Footer" />
 </p>
