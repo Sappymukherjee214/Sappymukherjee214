@@ -422,26 +422,17 @@ Worked on **AI-based VIVA System — Indian Language Understanding**, with respo
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Sappymukherjee214">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sappymukherjee214&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" />
-</a>
+<img src="https://github-readme-stats-nine-rose-89.vercel.app/api?username=Sappymukherjee214&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<a href="https://github.com/Sappymukherjee214">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sappymukherjee214&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
-</a>
+<img src="https://github-readme-stats-nine-rose-89.vercel.app/api/top-langs?username=Sappymukherjee214&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-<a href="https://github.com/Sappymukherjee214">
-<img src="https://streak-stats.demolab.com?user=Sappymukherjee214&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</a>
+<img src="https://streak-stats.demolab.com?user=Sappymukherjee214&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## GitHub Trophies
