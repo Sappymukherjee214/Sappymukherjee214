@@ -1,47 +1,30 @@
 name: Generate GitHub Trophies
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate-trophies:
+  generate-trophy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout profile repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Checkout GitHub Profile Trophy generator
-        uses: actions/checkout@v4
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          repository: ryo-ma/github-profile-trophy
-          path: trophy-generator
+          username: Sappymukherjee214
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: discord
 
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.x
-
-      - name: Generate trophy SVG
-        env:
-          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          deno run \
-            --allow-net \
-            --allow-env \
-            --allow-read \
-            --allow-write \
-            trophy-generator/render_svg.ts \
-            Sappymukherjee214 \
-            trophy.svg \
-            discord
-
-      - name: Commit updated trophy
+      - name: Commit trophy
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -49,7 +32,7 @@ jobs:
           git add trophy.svg
 
           if git diff --cached --quiet; then
-            echo "No trophy changes."
+            echo "No changes to trophy.svg"
           else
             git commit -m "chore: update GitHub trophies"
             git push
