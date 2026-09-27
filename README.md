@@ -448,7 +448,7 @@ Worked on **AI-based VIVA System — Indian Language Understanding**, with respo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sappymukherjee214&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sappymukherjee214&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -458,9 +458,7 @@ Worked on **AI-based VIVA System — Indian Language Understanding**, with respo
 
 <div align="center">
 
-<a href="https://github.com/Sappymukherjee214">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sappymukherjee214&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Saptarshi%20Mukherjee%20%E2%80%94%20Contribution%20Activity" width="95%" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sappymukherjee214&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Saptarshi%20Mukherjee%20%E2%80%94%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity" />
 
 </div>
 
