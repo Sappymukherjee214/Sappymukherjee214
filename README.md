@@ -457,8 +457,6 @@ Worked on **AI-based VIVA System — Indian Language Understanding**, with respo
 
 ## Contribution Snake
 
-## Contribution Snake
-
 <div align="center">
 
 <picture>
