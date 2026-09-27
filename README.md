@@ -118,6 +118,7 @@ I approach engineering with a strong emphasis on:
   <img src="https://skillicons.dev/icons?i=markdown,regex,webflow&theme=dark&perline=10" />
 </p>
 
+---
 
 ## AI / ML Expertise
 
