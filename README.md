@@ -20,7 +20,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/India-Kolkata-6366F1?style=flat-square&logo=googlemaps&logoColor=white" />
-<a href="https://saptarshi-mukherjee.vercel.app">
+<a href="https://saptarshi-os.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/saptarshi-mukherjee-096191263/">
