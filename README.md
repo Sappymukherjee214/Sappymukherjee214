@@ -466,13 +466,26 @@ Worked on **AI-based VIVA System — Indian Language Understanding**, with respo
 
 ## Contribution Snake
 
+## Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Sappymukherjee214/Sappymukherjee214/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
-
----
 
 ## Current Focus
 
