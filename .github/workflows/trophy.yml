@@ -8,29 +8,49 @@ on:
 permissions:
   contents: write
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
-  generate-trophy:
+  generate-trophies:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Profile Trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Checkout GitHub Profile Trophy generator
+        uses: actions/checkout@v4
         with:
-          username: Sappymukherjee214
-          output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: discord
+          repository: ryo-ma/github-profile-trophy
+          path: trophy-generator
 
-      - name: Commit trophy SVG
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Generate trophy SVG
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          deno run \
+            --allow-net \
+            --allow-env \
+            --allow-read \
+            --allow-write \
+            trophy-generator/render_svg.ts \
+            Sappymukherjee214 \
+            trophy.svg \
+            discord
+
+      - name: Commit updated trophy
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add trophy.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub trophies"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No trophy changes."
+          else
+            git commit -m "chore: update GitHub trophies"
+            git push
+          fi
