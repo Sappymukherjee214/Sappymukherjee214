@@ -420,7 +420,6 @@ Worked on **AI-based VIVA System — Indian Language Understanding**, with respo
 
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -433,7 +432,6 @@ Worked on **AI-based VIVA System — Indian Language Understanding**, with respo
 <img src="https://streak-stats.demolab.com?user=Sappymukherjee214&theme=tokyonight&hide_border=true" />
 
 </div>
----
 
 ## GitHub Trophies
 
