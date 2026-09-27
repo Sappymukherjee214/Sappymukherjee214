@@ -68,37 +68,55 @@ I approach engineering with a strong emphasis on:
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c&theme=dark&perline=10" />
 </p>
 
-### Frontend
+### Frontend & UI
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,solidjs,html,css,bootstrap,tailwind,windicss,vite,threejs&theme=dark&perline=12" />
 </p>
 
-### Backend & Databases
+### Backend & Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,mongodb,postgresql,firebase,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,nestjs,spring,dotnet&theme=dark&perline=10" />
 </p>
 
-### Cloud, DevOps & Tooling
+### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,terraform,jenkins,githubactions,vercel,netlify,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,firebase,supabase&theme=dark&perline=10" />
 </p>
 
-### AI / ML Ecosystem
+### AI / ML & Data Science
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-LLM%20Applications-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAISS-Vector%20Search-4F46E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MediaPipe-Computer%20Vision-5B21B6?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,matlab&theme=dark&perline=10" />
+  <br/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-LLM%20Applications-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MediaPipe-Computer%20Vision-5B21B6?style=for-the-badge" />
 </p>
 
+### Cloud, DevOps & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,jenkins,githubactions,vercel,netlify,ubuntu,windows&theme=dark&perline=10" />
+</p>
+
+### Development Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,npm,postman,selenium,vscode,visualstudio,figma&theme=dark&perline=10" />
+</p>
+
+### Other Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=markdown,regex,webflow,discord&theme=dark&perline=10" />
+</p>
 ---
 
 ## AI / ML Expertise
