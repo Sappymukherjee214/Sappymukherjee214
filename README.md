@@ -115,7 +115,7 @@ I approach engineering with a strong emphasis on:
 ### Other Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=markdown,regex,webflow,discord&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=markdown,regex,webflow&theme=dark&perline=10" />
 </p>
 
 
