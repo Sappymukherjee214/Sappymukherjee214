@@ -447,7 +447,7 @@ Worked on **AI-based VIVA System — Indian Language Understanding**, with respo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sappymukherjee214&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Saptarshi%20Mukherjee%20%E2%80%94%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity" />
+<img src="https://github-readme-activity-graph-tau-one.vercel.app/graph?username=Sappymukherjee214&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Saptarshi%20Mukherjee%20%E2%80%94%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity" />
 
 </div>
 
